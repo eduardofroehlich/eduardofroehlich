@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo Froehlich</h1>
+<h1 align="center">Hi 👋, I'm Eduardo Froehlich or Miojo Dev</h1>
 <h3 align="center">Turning coffee into code since 2020.☕➡️💻</h3>
 
 - 🔭 I’m currently working on [Awise](https://www.useawise.com/)
